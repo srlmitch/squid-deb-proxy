@@ -18,6 +18,7 @@ repository.spotify.com                  # Spotify
 repo.steampowered.com                   # Steam
 deb.torproject.org                      # Tor
 download.rethinkdb.com                  # RethinkDB
+simpleapi.majesticseo.com               # Majestic
 download.opensuse.org                   # OpenSuse Build Service
 packages.elasticsearch.org              # ElasticSearch
 packages.elastic.co                     # ElasticSearch new URL
